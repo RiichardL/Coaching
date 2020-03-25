@@ -1,0 +1,22 @@
+.background-header {
+  background-image: linear-gradient(to right, rgba(255, 255, 0, 0.5), rgba(0, 0, 255, 0.5)), url(./images/luz-e-sombra-na-fotografia-silhueta.jpg);
+  height: 80vh;
+  background-size: cover;
+}
+
+.icon-size-lg {
+  font-size: 50px;
+}
+
+.gradient {
+   background-color: blue;
+   background-image: linear-gradient(blue, aqua);
+   background: blue;
+   background: linear-gradient(blue, aqua);
+}
+
+.bg-nossoblog {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/pexels-photo-461077.jpeg);
+  height: 400px;
+  background-size: cover;
+}
